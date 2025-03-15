@@ -56,7 +56,7 @@
  
 <h4>Try My Telegram Bots <h4>
  
-[![MUSIC](https://img.shields.io/badge/-ROBOT-E1306C?style=for-the-badge&logo=ROBOT&logoColor=green)](https://t.me/AlexaXmusicBot)
+[![MUSIC](https://img.shields.io/badge/-ROBOT-E1306C?style=for-the-badge&logo=ROBOT&logoColor=green)](https://t.me/TheTrojansBot)
 [![MUSIC](https://img.shields.io/badge/music-%2307405e.svg?&style=for-the-badge&logo=music&logoColor)](https://t.me/SargamMusicBot)
 
 <h1>  ᴄᴜʀʀᴇɴᴛʟʏ ᴏɴ sᴘᴏᴛɪғʏ </h1>
